@@ -1,0 +1,17 @@
+[
+    {
+        "description": "Jewerly",
+        "amount": 800.0,
+        "category": "Luxury"
+    },
+    {
+        "description": "GTA6",
+        "amount": 80.0,
+        "category": "Games"
+    },
+    {
+        "description": "college",
+        "amount": 600.0,
+        "category": "Education"
+    }
+]
