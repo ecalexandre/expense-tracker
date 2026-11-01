@@ -50,7 +50,7 @@ def check_values(variable_name) -> str|float:
                 
                 case _:    
                    display_chars_one_by_one(0.01,f"\n\n\n{BROWN}Error ❌: '{choice}' is not a valid description, it has to contain at least 1 word, try again")
-                   print(f"\n\n\n{LIGHT_BLUE}┌───(user)~[Expense Tracker]")        
+                   print(f"\n\n\n{LIGHT_BLUE}┌───(user)~[Expense Tracker 📜💵]")        
        
         case variable if variable == "amount":
             while True:
@@ -65,12 +65,12 @@ def check_values(variable_name) -> str|float:
                             
                         case _:
                             display_chars_one_by_one(0.01,f"\n\n\n{BROWN}Error ❌: '{num}' is not a valid amount, try again")
-                            print(f"\n\n\n{LIGHT_BLUE}┌───(user)~[Expense Tracker]")
+                            print(f"\n\n\n{LIGHT_BLUE}┌───(user)~[Expense Tracker 📜💵]")
                             
                             
                 except ValueError:
                    display_chars_one_by_one(0.01,f"\n\n\n{BROWN}Error ❌: '{choice}' is not a valid amount, try again")
-                   print(f"\n\n\n{LIGHT_BLUE}┌───(user)~[Expense Tracker]")
+                   print(f"\n\n\n{LIGHT_BLUE}┌───(user)~[Expense Tracker 📜💵]")
             
         case variable if variable == "category":
            while True:
