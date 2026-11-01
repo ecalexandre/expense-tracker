@@ -86,7 +86,7 @@ python3 main.py
  
 Choose your action (1-7)
 
-┌───(user)~[expense-tracker]
+┌───(user)~[Expense Tracker 📜💵]
 └─> 
 ```
 
@@ -104,7 +104,7 @@ Choose your action (1-7)
 
 ```
 
-┌───(user)~[expense-tracker]
+┌───(user)~[Expense Tracker 📜💵]
 └─> 4
   
   
@@ -141,7 +141,7 @@ Expense 3:
 Finished viewing the expenses? (Press Enter to confirm)
 
 
-┌───(user)~[expense-tracker]
+┌───(user)~[Expense Tracker 📜💵]
 └─>
 ```
 
@@ -187,7 +187,7 @@ Have you decided which expense modify ?
  Quick Example: if you want to modify the 'Jewerly' expense which is the 1st expense if you check in the list its description, you can simply type 1 and press enter
 
 
-┌───(user)~[expense-tracker]
+┌───(user)~[Expense Tracker 📜💵]
 └─>
 ```
 
@@ -211,20 +211,20 @@ Here are the informations about the expense you chose
 Which information about the expense do you want to modify ? (1/3)
 
 
-┌───(user)~[expense-tracker]
+┌───(user)~[Expense Tracker 📜💵]
 └─>
 ```
 
 Then, I type 2 to modify its category, and I change it to 600 $, it is going to update it as 450 $ before to 600 $:
 
 ```
-┌───(user)~[expense-tracker]
+┌───(user)~[Expense Tracker 📜💵]
 └─> 2
 Enter your new amount below:
 
 
 
-┌───(user)~[expense-tracker]
+┌───(user)~[Expense Tracker 📜💵]
 └─> 600
 
 
