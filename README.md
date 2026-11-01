@@ -26,7 +26,7 @@ The expense Tracker is a tool to lets you keep track of your expenses and manage
 
 ## Installation
 
-1. Clone the repository by using the `git clone repo` command and replacing "repo" by the repository link
+1. Clone the repository by using the `git clone repo` command and replacing "repo" by the repository URL
 2. Create a virtual environment by using the `python -m venv` command.
 3. Activate the virtual environment with the `source .venv/bin/activate` command.
 
@@ -39,6 +39,9 @@ To run the tool, you simply need to use the `python3 main.py` command
 ```bash
 python3 main.py
 ```
+
+
+
 
 - Once ran, the banner is going to pop up and a welcoming message is gonna follow it:
 
@@ -234,10 +237,10 @@ Enter your new amount below:
 
 ```
 expense-tracker/
-|── .gitignore
-|── main.py
-|── README.md
-|── spendings.json
+   |── .gitignore
+   |── main.py
+   |── README.md
+   |── spendings.json
 ```
 
 
