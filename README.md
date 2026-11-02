@@ -237,10 +237,13 @@ Enter your new amount below:
 
 ```
 expense-tracker/
-   |── .gitignore
-   |── main.py
-   |── README.md
-   |── spendings.json
+├── README.md
+├── docs
+│    └── PROJET_04_EXPENSE_TRACKER.md
+├── main.py
+├── plan.md
+├── spendings.json
+└── testing.py
 ```
 
 
