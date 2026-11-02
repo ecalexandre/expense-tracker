@@ -8,13 +8,13 @@ The expense Tracker is a tool to lets you keep track of your expenses and manage
 
 ## Features ⚙️
 
--  The user can add an expense
-- The user can modify a specific expense
-- The user can remove a specific expense
-- The user can view the whole list of expenses
-- The user can view the assessment (Total amount, smallest amount, biggest amount, average expenditure)
-- The user can view the expenses per category
-- The user can quit the program when he is done
+- The user can add ➕ an expense
+- The user can modify 🔨 a specific expense
+- The user can remove ➖ a specific expense
+- The user can view 👀 the whole list 📋of expenses
+- The user can view 👀 the assessment 📄💳 (Total amount, smallest amount, biggest amount, average expenditure)
+- The user can view 👀 the expenses per category 📌
+- The user can quit 🚪 the program when he is done
 
 ---
 
@@ -152,7 +152,7 @@ Finished viewing the expenses? (Press Enter to confirm)
 Visual version example:
 
 ```
-┌───(user)~[expense-tracker]
+┌───(user)~[Expense Tracker 📜💵]
 └─> 2
 
 
@@ -196,7 +196,7 @@ Then once you select the expense, it will ask you which information (description
 For instance, if I choose the expense 3 (the third expense that you can see above which has "college" as the description), this is how it would look like:
 
 ```
-┌───(user)~[expense-tracker]
+┌───(user)~[Expense Tracker 📜💵]
 └─> 3
 Here are the informations about the expense you chose
 
