@@ -1,4 +1,4 @@
-# Expense Tracker
+# Expense Tracker 🖲️💰
 
 ## About it :
 
@@ -6,7 +6,7 @@ The expense Tracker is a tool to lets you keep track of your expenses and manage
 
 ---
 
-## Features
+## Features ⚙️
 
 -  The user can add an expense
 - The user can modify a specific expense
@@ -18,13 +18,13 @@ The expense Tracker is a tool to lets you keep track of your expenses and manage
 
 ---
 
-## Requirements
+## Requirements 📦
 
 - Python 3.14
 
 ---
 
-## Installation
+## Installation 👌
 
 1. Clone the repository by using the `git clone repo` command and replacing "repo" by the repository URL
 2. Create a virtual environment by using the `python -m venv` command.
@@ -32,7 +32,7 @@ The expense Tracker is a tool to lets you keep track of your expenses and manage
 
 ---
 
-## Usage
+## Usage ✋
 
 To run the tool, you simply need to use the `python3 main.py` command
 
@@ -233,22 +233,21 @@ Enter your new amount below:
 
 
 
-## Project Structure
+## Project Structure 🏗️
 
 ```
 expense-tracker/
-├── README.md
-├── docs
+├── docs/
 │    └── PROJET_04_EXPENSE_TRACKER.md
+├── .gitignore
 ├── main.py
-├── plan.md
-├── spendings.json
-└── testing.py
+├── README.md
+└── spendings.json
 ```
 
 
 
-### Author
+### Author/Creator 👷‍♂️📑
 
 ```
 Created by ecalexandre
